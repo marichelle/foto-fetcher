@@ -1,5 +1,22 @@
 {
   "albums": [],
   "photos": [],
-  "users": []
+  "users": [
+    {
+      "id": 1,
+      "name": "John Lennon"
+    },
+    {
+      "id": 2,
+      "name": "Paul McCartney"
+    },
+    {
+      "id": 3,
+      "name": "George Harrison"
+    },
+    {
+      "id": 4,
+      "name": "Ringo Starr"
+    }
+  ]
 }
