@@ -13,7 +13,11 @@ function UserListItem({ user }) {
 
   const header = (
     <>
-      <Button className="mr-3" loading={isLoading} onClick={handleClick}>
+      <Button
+        className="mr-3"
+        loading={isLoading || null}
+        onClick={handleClick}
+      >
         <TrashIcon className="w-5 h-5" />
       </Button>
       {error && <div>Error deleting user.</div>}
