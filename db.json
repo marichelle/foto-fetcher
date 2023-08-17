@@ -1,5 +1,21 @@
 {
-  "albums": [],
+  "albums": [
+    {
+      "id": 1,
+      "title": "Magical Mystery Tour",
+      "userId": 1
+    },
+    {
+      "title": "Gorgeous Frozen Chicken",
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "title": "Modern Fresh Pants",
+      "userId": 2,
+      "id": 3
+    }
+  ],
   "photos": [],
   "users": [
     {
